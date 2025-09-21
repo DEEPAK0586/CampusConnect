@@ -1,0 +1,5 @@
+{
+  "name": "CampusConnect",
+  "description": "A comprehensive web portal for college communication and event management, designed to streamline internal communication and event coordination within a college campus. It features event announcements, academic notifications, discussion forums, and more, providing a centralized hub for all campus-related updates.",
+  "requestFramePermissions": []
+}
